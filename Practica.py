@@ -21,6 +21,9 @@ def mean(A, B, C):
 def mean(A, B, C):
     return mean(A, B, C)
 
+# Función que retorna la resta 
+def resta(A, B, C):
+    return resta(A, B, C)
 
 
 
